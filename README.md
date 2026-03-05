@@ -11,7 +11,7 @@ ____
 + На основании проведения A/B тестирования могу сделать выводы о продукте.
 
 ____
-###🛠️ Языки и инструменты:
+🛠️ Языки и инструменты:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
